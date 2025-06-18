@@ -5,7 +5,7 @@ import { AppNavBar } from '#components';
 
 <template>
     <div class="flex min-h-screen flex-col">
-        <AppNavBarar/>
+        <AppNavBar/>
         <main>
             <slot/>
         </main>
