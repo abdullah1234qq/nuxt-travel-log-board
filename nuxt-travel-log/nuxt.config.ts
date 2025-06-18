@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   compatibilityDate: "2025-05-15",
   devtools: { enabled: true },
   modules: ["@nuxt/eslint"],
+  css: ['~/assets/css/main.css'],
   eslint: {
     config: {
       standalone: false,
