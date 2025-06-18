@@ -4,8 +4,8 @@
   "editor.formatOnSave": false,
   // Auto fix
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": "explicit",
-    "source.organizeImports": "never"
+    // "source.fixAll.eslint": "explicit",
+    // "source.organizeImports": "never"
   },
   // Silent the stylistic rules in you IDE, but still auto fix them
   "eslint.rules.customizations": [
@@ -84,4 +84,6 @@
     "pcss",
     "postcss"
   ]
+  // Enable auto import suggestions
 }
+// This file is used to configure VSCode settings for the Nuxt Travel Log project.
