@@ -18,6 +18,7 @@
     "@nuxt/icon": "^1.13.0",
     "@nuxtjs/color-mode": "^3.5.2",
     "@tailwindcss/vite": "^4.1.10",
+    "@vercel/speed-insights": "^1.2.0",
     "dotenv": "^16.5.0",
     "drizzle-orm": "^0.44.2",
     "eslint": "^9.29.0",
